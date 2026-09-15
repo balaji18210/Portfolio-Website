@@ -229,7 +229,7 @@ This project itself is a personal portfolio website designed to showcase skills,
 
 ---
 
-# 📞 Contact Section
+#  Contact Section
 
 The Contact section provides a form through which visitors can enter their information.
 
@@ -245,7 +245,7 @@ The contact form in this basic project is a demonstration interface and does not
 
 ---
 
-# 🧭 Navigation
+# Navigation
 
 The website contains a navigation menu that allows users to quickly move between different sections.
 
